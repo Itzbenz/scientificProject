@@ -1,0 +1,5 @@
+fastai~=2.5.3
+opencv-python~=4.5.4.60
+numpy~=1.21.4
+paramiko~=2.8.1
+praw~=7.5.0
